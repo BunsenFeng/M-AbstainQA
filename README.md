@@ -1,6 +1,6 @@
 # Multilingual AbstainQA Repository
 
-This is the official repo for [Teaching LLMs to Abstain across Languages via Multilingual Feedback](https://arxiv.org/abs/2406.15948).
+This is the official repo for [Teaching LLMs to Abstain across Languages via Multilingual Feedback](https://arxiv.org/abs/2406.15948) @ EMNLP 2024.
 
 ### Environment
 
